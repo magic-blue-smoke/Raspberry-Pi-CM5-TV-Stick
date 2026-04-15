@@ -2,7 +2,7 @@
 Raspberry Pi CM5 that plugs directly to TV/monitor!
 
 ## Availability
-Raspberry Pi CM5 TV Stick will be available for purchase soon at [Makerfabs](https://www.makerfabs.com/)
+Raspberry Pi CM5 TV Stick is available for purchase at [Makerfabs](https://www.makerfabs.com/raspberry-pi-cm5-tv-stick-lite.html)
 
 Follow on X: [@magic__smoke](https://twitter.com/magic__smoke)
 
