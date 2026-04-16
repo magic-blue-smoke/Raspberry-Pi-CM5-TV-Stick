@@ -6,6 +6,8 @@ Raspberry Pi CM5 TV Stick is available for purchase at [Makerfabs](https://www.m
 
 Follow on X: [@magic__smoke](https://twitter.com/magic__smoke)
 
+![Raspberry Pi CM5 TV Stick Lite](IMG_3571.jpeg)
+
 ## Specs
 - Compatible with Raspberry Pi CM5 Lite and eMMC variants
 - HDMI plug
@@ -19,6 +21,8 @@ Follow on X: [@magic__smoke](https://twitter.com/magic__smoke)
 - Fan connector
 - Power and Act LEDs
 - Connector for Ambilight-like lightning with WS2812 or WS2801 LEDs (GND, GPIO18, GPIO10 and GPIO11)
+
+![Raspberry Pi CM5 TV Stick Lite](IMG_3575.jpeg)
 
 ## Description
 ### HDMI plug
